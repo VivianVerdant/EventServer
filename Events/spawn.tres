@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="Event" load_steps=2 format=3 uid="uid://h5rbjduw2lqf"]
+
+[ext_resource type="Script" path="res://addons/event_system/event_object.gd" id="1_uxro7"]
+
+[resource]
+script = ExtResource("1_uxro7")
+name = "player_spawn"
+global = false
+once = false
+properties = {}

@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1694884955
+icon.svg::CompressedTexture2D::7302204538352744924::1694795486::1694795500::1::::<><>::
+Sprite2D.gd::GDScript::-1::1694884903::0::1::::<>Sprite2D<>::
+test.tscn::PackedScene::1504261132260296355::1694884928::0::1::::<><>::res://Sprite2D.gd<>res://test_listener.gd<>res://addons/event_system/event_listener_object.gd
+test_listener.gd::GDScript::-1::1694884569::0::1::::<>Node2D<>::
+::res://addons/::1694796656
+::res://addons/event_system/::1694884878
+event_listener_object.gd::GDScript::-1::1694883977::0::1::::EventListener<>Resource<>::
+event_object.gd::GDScript::-1::1694883997::0::1::::Event<>Resource<>::
+event_server.gd::GDScript::-1::1694884877::0::1::::<>Node<>::
+event_system.gd::GDScript::-1::1694884014::0::1::::<>EditorPlugin<>::
+plugin.cfg::TextFile::-1::1694796679::0::1::::<><>::

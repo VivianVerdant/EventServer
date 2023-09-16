@@ -1,0 +1,7 @@
+res://test.tscn
+res://Events/spawn.tres
+res://addons/event_system/event_object.gd
+res://addons/event_system/event_listener_object.gd
+res://addons/event_system/event_server.gd
+res://Sprite2D.gd
+res://test_listener.gd
